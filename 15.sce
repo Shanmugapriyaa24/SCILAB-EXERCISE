@@ -1,0 +1,5 @@
+a = int(rand(3,5)*10)
+disp(a)
+a(:,2) = ones(3,1)
+a(:,4) = ones(3,1)
+disp(a)
